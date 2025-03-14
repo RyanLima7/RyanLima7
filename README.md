@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**RyanLima7/RyanLima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <div> 
+    <a href="https://www.linkedin.com/in/ryan-lima-705149317/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="ry90ryan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+### 🔸```Estatísticas```:bar_chart:
+<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLima7&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
+</div>
+
+
+
+
