@@ -18,7 +18,7 @@
 <br>
 
 
-### 🔸```Estatísticas```:bar_chart:
+### 🔸```Statistics```:bar_chart:
 <div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLima7&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
   
