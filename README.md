@@ -1,6 +1,6 @@
 # Hello World, Welcome to my profile!    :earth_americas: <img src="https://github.com/user-attachments/assets/38e391ee-b00f-4516-8d71-e6ee9fb86a50" height="200px" align="right" alt="Gif animado">
 
-  ### 🔸```Conecte-se a mim```:crown:
+  ### 🔸```Connect with me```:crown:
   <div> 
     <a href="https://www.linkedin.com/in/ryan-lima-705149317/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="mailto:ry90ryan@gmail.com" target="_blank">
