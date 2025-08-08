@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%; align-items:center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLima7&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
+ <img height="158em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/RyanLima7/RyanLima7/main/dist/github-contribution-grid-snake-dark.svg)
