@@ -5,13 +5,14 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/RyanLima7">
+    <img src="./profile-3d-contrib/profile.svg" alt="3D GitHub Profile Local"/>
+  </a>
+</p>
 
 
-[![RyanLima7's 3D GitHub Profile](https://github-profile-3d-contrib.vercel.app/api/profile-night-rainbow?username=RyanLima7)](https://github.com/RyanLima7)
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-)
 
 ---
 
@@ -27,9 +28,9 @@
 ---
 
 <div style="display: flex; justify-content: space-between; width: 100%; align-items:center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLima7&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLima7&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
 
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
+ <img height="185em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/RyanLima7/RyanLima7/main/dist/github-contribution-grid-snake-dark.svg)
