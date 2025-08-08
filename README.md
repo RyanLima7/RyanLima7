@@ -4,14 +4,7 @@
   Estudante de Tecnologia da Informação
 </p>
 
----
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-
-
-
----
 
 ## Sobre
 
