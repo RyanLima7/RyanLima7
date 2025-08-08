@@ -14,6 +14,7 @@
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-lima-ferreira-705149317/)
+-  [Instagram - Ryan Lima](https://www.instagram.com/r.liima7)
 
 ---
 
