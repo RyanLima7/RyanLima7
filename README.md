@@ -6,7 +6,12 @@
 
 ---
 
-![svg](https://raw.githubusercontent.com/RyanLima7/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
+[![RyanLima7's 3D GitHub Profile](https://github-profile-3d-contrib.vercel.app/api/profile-night-rainbow?username=RyanLima7)](https://github.com/RyanLima7)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+)
 
 ---
 
@@ -27,6 +32,7 @@
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/RyanLima7/RyanLima7/main/dist/github-contribution-grid-snake-dark.svg)
 
 
 > "Aprender é o primeiro passo para evoluir."
