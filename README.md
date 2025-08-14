@@ -23,7 +23,10 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=RyanLima7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/RyanLima7/RyanLima7/main/dist/github-contribution-grid-snake-dark.svg)
+<br/>
 
-> "Aprender é o primeiro passo para evoluir."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLima7&theme=tokyo-night&hide_border=true" alt="Ryan Activity Graph"/>
+</p>
+
 > "Aprender é o primeiro passo para evoluir."
