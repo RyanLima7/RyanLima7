@@ -25,8 +25,5 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLima7&theme=tokyo-night&hide_border=true" alt="Ryan Activity Graph"/>
-</p>
 
 > "Aprender é o primeiro passo para evoluir."
