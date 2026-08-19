@@ -11,7 +11,7 @@
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-lima-ferreira-705149317/)
+- [LinkedIn](https://www.linkedin.com/in/ryan-lima-705149317/)
 - [Instagram](https://www.instagram.com/ryliima)
 - [Email](mailto:ry90ryan@gmail.com)
 
